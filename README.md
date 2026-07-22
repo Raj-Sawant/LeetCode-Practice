@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Trie
 |  |
 | ------- |
