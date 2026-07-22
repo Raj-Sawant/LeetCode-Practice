@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 ## Trie
 |  |
 | ------- |
