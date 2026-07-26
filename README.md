@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
