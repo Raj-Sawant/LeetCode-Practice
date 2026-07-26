@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0125-valid-palindrome) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0125-valid-palindrome) |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
