@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
