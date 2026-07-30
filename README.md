@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0061-rotate-list) |
 ## Math
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -131,9 +133,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
