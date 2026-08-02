@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0585-investments-in-2016) |
 | [0607-sales-person](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0607-sales-person) |
+| [0626-exchange-seats](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1045-customers-who-bought-all-products) |
 ## Backtracking
 |  |
