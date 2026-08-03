@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1158-market-analysis-i](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1158-market-analysis-i) |
+| [1193-monthly-transactions-i](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1193-monthly-transactions-i) |
 ## Backtracking
 |  |
 | ------- |
