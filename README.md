@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
