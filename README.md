@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0349-intersection-of-two-arrays](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
