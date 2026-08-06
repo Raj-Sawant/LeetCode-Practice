@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0626-exchange-seats) |
 | [1045-customers-who-bought-all-products](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1158-market-analysis-i](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1158-market-analysis-i) |
+| [1164-product-price-at-a-given-date](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1164-product-price-at-a-given-date) |
 | [1193-monthly-transactions-i](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1193-monthly-transactions-i) |
 | [1907-count-salary-categories](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1907-count-salary-categories) |
 ## Backtracking
