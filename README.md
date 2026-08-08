@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1164-product-price-at-a-given-date) |
 | [1193-monthly-transactions-i](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1193-monthly-transactions-i) |
 | [1907-count-salary-categories](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1907-count-salary-categories) |
+| [3421-find-students-who-improved](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3421-find-students-who-improved) |
 ## Backtracking
 |  |
 | ------- |
