@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
+| [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0131-palindrome-partitioning](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0647-palindromic-substrings) |
+| [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,4 +221,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
