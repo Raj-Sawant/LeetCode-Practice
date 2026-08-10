@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0189-rotate-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0349-intersection-of-two-arrays](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 ## Quickselect
@@ -206,11 +209,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
