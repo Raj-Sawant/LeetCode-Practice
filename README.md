@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0184-department-highest-salary) |
