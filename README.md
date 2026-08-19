@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
 ## Depth-First Search
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0012-integer-to-roman) |
+| [0089-gray-code](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
@@ -268,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0089-gray-code) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 <!---LeetCode Topics End-->
