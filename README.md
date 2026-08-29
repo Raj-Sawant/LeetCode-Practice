@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0216-combination-sum-iii) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0383-ransom-note) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0089-gray-code) |
+| [0318-maximum-product-of-word-lengths](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Search Tree
 |  |
