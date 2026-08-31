@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0079-word-search) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0207-course-schedule](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0207-course-schedule) |
 ## Matrix
 |  |
 | ------- |
@@ -290,4 +291,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
