@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1193-monthly-transactions-i) |
 | [1907-count-salary-categories](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1907-count-salary-categories) |
 | [3421-find-students-who-improved](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3421-find-students-who-improved) |
+| [3475-dna-pattern-recognition](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3475-dna-pattern-recognition) |
 ## Backtracking
 |  |
 | ------- |
