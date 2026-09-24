@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
 | [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
