@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0232-implement-queue-using-stacks](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 ## Linked List
 |  |
@@ -353,4 +354,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
