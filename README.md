@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0242-valid-anagram](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0383-ransom-note) |
