@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0647-palindromic-substrings) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2409-count-days-spent-together](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
 | [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
+| [2409-count-days-spent-together](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
