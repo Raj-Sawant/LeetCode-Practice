@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0647-palindromic-substrings) |
+| [1763-longest-nice-substring](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1763-longest-nice-substring) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1763-longest-nice-substring) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
+| [1763-longest-nice-substring](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1763-longest-nice-substring) |
 ## Quickselect
 |  |
 | ------- |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [1763-longest-nice-substring](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1763-longest-nice-substring) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Search Tree
 |  |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1763-longest-nice-substring](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
