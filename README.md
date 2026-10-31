@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0089-gray-code) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0461-hamming-distance](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0461-hamming-distance) |
 | [1763-longest-nice-substring](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1763-longest-nice-substring) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Binary Search Tree
