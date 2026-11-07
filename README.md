@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 ## Linked List
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
