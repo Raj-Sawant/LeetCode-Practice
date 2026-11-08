@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0654-maximum-binary-tree) |
 | [0977-squares-of-a-sorted-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1267-count-servers-that-communicate](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -136,10 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0207-course-schedule) |
+| [1267-count-servers-that-communicate](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0079-word-search) |
+| [1267-count-servers-that-communicate](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Stack
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0383-ransom-note) |
+| [1267-count-servers-that-communicate](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0101-symmetric-tree) |
 | [0207-course-schedule](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0207-course-schedule) |
+| [1267-count-servers-that-communicate](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 ## Graph Theory
 |  |
 | ------- |
@@ -399,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0032-longest-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
