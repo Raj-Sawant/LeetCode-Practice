@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
+| [1025-divisor-game](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [2409-count-days-spent-together](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0647-palindromic-substrings) |
+| [1025-divisor-game](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Divide and Conquer
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -408,4 +411,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1267-count-servers-that-communicate) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
