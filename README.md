@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Divide and Conquer
 |  |
 | ------- |
