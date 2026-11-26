@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1025-divisor-game) |
 | [1510-stone-game-iv](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1510-stone-game-iv) |
 | [2409-count-days-spent-together](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/0415-add-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/1441-build-an-array-with-stack-operations) |
+| [3360-stone-removal-game](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Raj-Sawant/LeetCode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
